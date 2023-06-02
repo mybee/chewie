@@ -16,7 +16,7 @@ dependencies:
   wakelock:
     git:
       url: https://github.com/timsneath/wakelock
-      ref: main
+      ref: win32-v5
       path: wakelock
 
 dev_dependencies:
